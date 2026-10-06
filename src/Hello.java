@@ -4,7 +4,7 @@ public class Hello {
         int b = 12;
         try {
             if (a == 10 || b == 12) {
-                System.out.println("Hello World");
+                System.out.println("Hello WWorld");
             } else
                 System.out.println("FNF");
         } catch (Exception e) {
