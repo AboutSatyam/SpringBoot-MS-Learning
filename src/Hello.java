@@ -6,6 +6,11 @@ public class Hello {
         int c = 10;
         int d = 0;
 
+
+        /**
+         * As We Know This is A way to declare the documentation
+         *
+         */
         try {
             if (a > 100 && b > 200) {
                 System.out.println("First If Block");
